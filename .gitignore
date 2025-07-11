@@ -1,0 +1,12 @@
+# Folder yang tidak perlu diupload ke GitHub
+node_modules/
+.next/
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# Folder build/output
+out/
+dist/
+build/
