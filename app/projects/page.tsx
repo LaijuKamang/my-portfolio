@@ -6,11 +6,11 @@ export default function Projects() {
         <ul className="space-y-4">
           <li>
             <h2 className="text-xl font-semibold">Project One</h2>
-            <p className="text-gray-600 dark:text-gray-400">Description of your first open source or personal project.</p>
+            <p className="text-gray-600 dark:text-gray-400">None.</p>
           </li>
           <li>
             <h2 className="text-xl font-semibold">Project Two</h2>
-            <p className="text-gray-600 dark:text-gray-400">Another great project you want to highlight.</p>
+            <p className="text-gray-600 dark:text-gray-400">None.</p>
           </li>
         </ul>
       </section>
