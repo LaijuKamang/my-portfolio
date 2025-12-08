@@ -6,8 +6,8 @@ export default function Blog() {
         <p className="text-gray-600 dark:text-gray-400 mb-4">None.</p>
         <ul className="space-y-4">
           <li>
-            <h2 className="text-xl font-semibold">None..</h2>
-            <p className="text-gray-600 dark:text-gray-400">None..</p>
+            <h2 className="text-xl font-semibold">Haii Ayu Sayang</h2>
+            <p className="text-gray-600 dark:text-gray-400">❤ 🧡 💛 💚 💙 💜 🤎 🖤 🤍</p>
           </li>
         </ul>
       </section>
