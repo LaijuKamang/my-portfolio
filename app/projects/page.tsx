@@ -6,7 +6,17 @@ export default function Projects() {
         <ul className="space-y-4">
           <li>
             <h2 className="text-xl font-semibold">Project One</h2>
-            <p className="text-gray-600 dark:text-gray-400">Tantangan 30 Hari Koding Python : https://drive.google.com/drive/folders/1jB1B6_VFVddYtTSJGudxW9bDWtSeJHNH?usp=sharing</p>
+            <p className="text-gray-600 dark:text-gray-400">
+              Tantangan 30 Hari Koding Python :
+              <a
+                href="https://drive.google.com/drive/folders/1jB1B6_VFVddYtTSJGudxW9bDWtSeJHNH?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 dark:text-blue-400 underline ml-1"
+              >
+                Drive Link
+              </a>
+            </p>
           </li>
           <li>
             <h2 className="text-xl font-semibold">Project Two</h2>
