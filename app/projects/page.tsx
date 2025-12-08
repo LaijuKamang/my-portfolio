@@ -6,7 +6,7 @@ export default function Projects() {
         <ul className="space-y-4">
           <li>
             <h2 className="text-xl font-semibold">Project One</h2>
-            <p className="text-gray-600 dark:text-gray-400">Belum Ada..</p>
+            <p className="text-gray-600 dark:text-gray-400">Tantangan 30 Hari Koding Python</p>
           </li>
           <li>
             <h2 className="text-xl font-semibold">Project Two</h2>
