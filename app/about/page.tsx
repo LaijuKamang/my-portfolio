@@ -1,6 +1,5 @@
-// app/about/page.tsx
 import Image from "next/image";
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope, FaFilePdf } from "react-icons/fa";
 
 export default function About() {
   return (
@@ -29,6 +28,7 @@ export default function About() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
+            title="GitHub"
           >
             <FaGithub className="hover:text-red-500 transition" />
           </a>
@@ -37,6 +37,7 @@ export default function About() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
+            title="LinkedIn"
           >
             <FaLinkedin className="hover:text-red-500 transition" />
           </a>
@@ -45,8 +46,21 @@ export default function About() {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Email"
+            title="Email"
           >
             <FaEnvelope className="hover:text-red-500 transition" />
+          </a>
+
+          {/* Link CV: buka di tab baru sehingga pengunjung bisa melihat & mengunduh */}
+          <a
+            href="/cv/CV_Hen_Umbu_Laiya.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Lihat dan Unduh CV"
+            title="Lihat / Unduh CV"
+            className="hover:text-red-500 transition"
+          >
+            <FaFilePdf />
           </a>
         </div>
       </section>
