@@ -17,6 +17,18 @@ export default function Projects() {
                 Drive Link
               </a>
             </p>
+            {/* Penambahan Link Project Nomor Antrian */}
+            <p className="text-gray-600 dark:text-gray-400">
+              PDF Queue Number Generator :
+              <a
+                href="LINK_DRIVE_FOLDER_BARU_ANDA"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 dark:text-blue-400 underline ml-1"
+              >
+                Drive Link
+              </a>
+            </p>
           </li>
           <li>
             <h2 className="text-xl font-semibold">Project Two</h2>
