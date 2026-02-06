@@ -9,7 +9,7 @@ export default function Projects() {
             <p className="text-gray-600 dark:text-gray-400">
               Tantangan 30 Hari Koding Python :
               <a
-                href="https://drive.google.com/drive/folders/1jB1B6_VFVddYtTSJGudxW9bDWtSeJHNH?usp=sharing"
+                href="https://drive.google.com/drive/folders/1Ua2o6esRRsRnzcKd8UdVvEBRIP8Zx8DC?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 dark:text-blue-400 underline ml-1"
