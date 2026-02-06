@@ -19,9 +19,9 @@ export default function Projects() {
             </p>
             {/* Penambahan Link Project Nomor Antrian */}
             <p className="text-gray-600 dark:text-gray-400">
-              PDF Queue Number Generator :
+              Membuat Nomor Antrian Keren :
               <a
-                href="LINK_DRIVE_FOLDER_BARU_ANDA"
+                href="https://drive.google.com/drive/folders/1PrjJPjyfP3Y4z5y8O6GPERaqlMSe8OH4?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 dark:text-blue-400 underline ml-1"
